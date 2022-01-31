@@ -1,0 +1,7 @@
+ProGrad Details: 
+	UserId ->       1111,
+	Name ->       ProGrad,
+	Year ->       2022,
+	Qualification ->       MCA,
+	UserName ->       ALARK,
+	Password ->       xyz,
